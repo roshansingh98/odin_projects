@@ -1,2 +1,2 @@
-# odin_projects
-part of The Odin Project
+# Odin Recipes
+Creating the first assignment of odin project
